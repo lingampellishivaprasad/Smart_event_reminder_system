@@ -1,0 +1,3 @@
+# Smart Event Reminder System
+# No third-party dependencies.
+# The project uses only Python standard-library modules.
